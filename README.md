@@ -22,8 +22,8 @@ A lightweight macOS menu bar app that shows your VPN connection status and curre
 
 1. Download `VPNStatus.zip` from the latest release
 2. Unzip the file
-3. Move `VPNStatus.app` to your Applications folder
-4. Double-click to run
+3. Move `VPNStatus.app` to `/Applications`
+4. Double-click to run (or launch from Spotlight)
 
 ### First Launch
 
